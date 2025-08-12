@@ -1,0 +1,141 @@
+{
+  "Winter": ["navy", "emerald", "crimson", "cool grey"],
+  "Summer": ["baby blue", "rose", "lavender", "mint"],
+  "Autumn": ["olive", "mustard", "rust", "ivory"],
+  "Spring": ["peach", "sky blue", "light yellow", "turquoise"],
+  
+  "Light Spring": [
+        "Light Peach",
+        "Butter Yellow",
+        "Mint Green",
+        "Clear Aqua",
+        "Warm Pink",
+        "Soft Coral",
+        "Pale Apricot",
+        "Wheat",
+        "Light Gold"
+    ],
+    "True/Warm Spring": [
+        "Apricot",
+        "Golden Rod",
+        "Grass Green",
+        "Tangerine",
+        "Clear Turquoise",
+        "Warm Rose",
+        "Coral Red",
+        "Marigold",
+        "Spring Green"
+    ],
+    "Clear/Bright Spring": [
+        "Bright Sky Blue",
+        "Cyan",
+        "Tomato Red",
+        "Daffodil Yellow",
+        "Jade Green",
+        "Clear Coral",
+        "Flame Orange",
+        "Geranium",
+        "Lime"
+    ],
+    "Light Summer": [
+        "Baby Pink",
+        "Powder Blue",
+        "Lavender",
+        "Mint",
+        "Sky Blue",
+        "Light Periwinkle",
+        "Seafoam",
+        "Dusty Rose",
+        "Pale Silver"
+    ],
+    "True/Cool Summer": [
+        "Rose Pink",
+        "Soft Blue",
+        "Plum",
+        "Cool Lilac",
+        "Mauve",
+        "Mulberry",
+        "Blue Grey",
+        "Sapphire",
+        "Iris"
+    ],
+    "Soft Summer": [
+        "Dusty Rose",
+        "Mushroom",
+        "Misty Blue",
+        "Mauve Taupe",
+        "Sage Green",
+        "Powder Aqua",
+        "Blue Grey",
+        "Muted Lavender",
+        "Pink Sand"
+    ],
+    "Deep/Soft Autumn": [
+        "Burnt Orange",
+        "Olive Green",
+        "Mahogany",
+        "Deep Teal",
+        "Mustard Yellow",
+        "Espresso Brown",
+        "Bronze",
+        "Deep Moss",
+        "Brick Red"
+    ],
+    "True/Warm Autumn": [
+        "Pumpkin",
+        "Marigold",
+        "Olive",
+        "Terracotta",
+        "Copper",
+        "Leaf Green",
+        "Rust",
+        "Camel",
+        "Harvest Gold"
+    ],
+    "Soft Autumn": [
+        "Sage",
+        "Pale Olive",
+        "Mushroom",
+        "Muted Coral",
+        "Soft Gold",
+        "Peach Dust",
+        "Warm Taupe",
+        "Light Moss",
+        "Soft Caramel"
+    ],
+    "Deep/Warm Winter": [
+        "Garnet",
+        "Hunter Green",
+        "Deep Teal",
+        "Charcoal",
+        "Burgundy",
+        "Aubergine",
+        "Pine",
+        "Espresso",
+        "Black"
+    ],
+    "True/Cool Winter": [
+        "Icy Lavender",
+        "Royal Blue",
+        "Hot Pink",
+        "Charcoal",
+        "Crisp White",
+        "Lemon Yellow",
+        "True Red",
+        "Navy",
+        "Silver"
+    ],
+    "Clear/Bright Winter": [
+        "Cobalt Blue",
+        "Fuchsia",
+        "Icy Pink",
+        "Emerald",
+        "Black",
+        "Pure White",
+        "Electric Blue",
+        "Cherry Red",
+        "Kelly Green"
+    ]
+
+  
+}
